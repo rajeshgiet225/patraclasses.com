@@ -1,0 +1,353 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="patraclasses.com" resolutions="1x" timestamp="1613381897077">
+  <folder name="css">
+    <file name="site_global.css" crc="4254470999"/>
+    <file name="about.css" crc="3872974789" ref="about"/>
+    <file name="contact.css" crc="4149306717" ref="contact"/>
+    <file name="index.css" crc="4120737860" ref="index"/>
+    <file name="portfolio.css" crc="4108279565" ref="portfolio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="3856315280" ref="index:portfolio"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:portfolio"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:portfolio"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u1242.php" crc="507816521" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:about:portfolio:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:about:portfolio:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="mobile-phone.png" crc="181278280" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="new-u2135.png" crc="3931379397" ref="index"/>
+    <file name="texture.jpg" crc="397322237" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coaching.jpg" crc="4102657970" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medical.jpg" crc="4027569617" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iit.jpg" crc="9847560" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="390758369" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u208-4-a.png" crc="4251149300" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
+    <file name="u2529.png" crc="131487699" ref="index"/>
+    <file name="u2529-r.png" crc="3889670599" ref="index"/>
+    <file name="u2529-m.png" crc="3889670599" ref="index"/>
+    <file name="u2529-a.png" crc="3889670599" ref="index"/>
+    <file name="u2730.png" crc="199958841" ref="index"/>
+    <file name="u2730-r.png" crc="243283036" ref="index"/>
+    <file name="u2730-m.png" crc="243283036" ref="index"/>
+    <file name="u2730-a.png" crc="243283036" ref="index"/>
+    <file name="u2830.png" crc="3777662056" ref="index"/>
+    <file name="u2830-r.png" crc="48442232" ref="index"/>
+    <file name="u2830-m.png" crc="48442232" ref="index"/>
+    <file name="u2830-a.png" crc="48442232" ref="index"/>
+    <file name="book-4126483.jpg" crc="4278193078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bristdrdrdrd.jpg" crc="181916303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eliabe-costa-tzsujd0tgkk-unsplash.jpg" crc="62923600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lewis-keegan-skillscouter-com-ob2aeee8s4a-unsplash.jpg" crc="4258648758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="van-tay-media-ofbyslkgjng-unsplash-u2264-a-fr.jpg" crc="134513694" ref="index"/>
+    <file name="book-4126483-crop-u2264.jpg" crc="4107187404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bristdrdrdrd-crop-u7830.jpg" crc="3799720907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eliabe-costa-tzsujd0tgkk-unsplash68x45.jpg" crc="3796690189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lewis-keegan-skillscouter-com-ob2aeee8s4a-unsplash72x45.jpg" crc="521108725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jee_topper_1527493131_725x725.jpg" crc="3773767347" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="upto-60-discount-offer-mega-sale-banner-poster-design_1302-17339.jpg" crc="3846097992" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="36-368075_collection-of-png-high-quality-free-handsome.jpg" crc="4028346511" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="psrer-u6359-fr.jpg" crc="308084128" ref="index"/>
+    <file name="free-vector-self-portrait-by-jar_101306_self_portrait_by_jar.png" crc="295498173" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fghyuj.jpg" crc="240000930" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dribble32x32.jpg" crc="3900312861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook32x32.jpg" crc="3814358492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin32x32.jpg" crc="4032340596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rss.png" crc="4144695932" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pinterest32x32.jpg" crc="340003248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter32x32.jpg" crc="462041627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="3859176163" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="green-bg.png" crc="3906196488" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="fff2.jpg" crc="86857925" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6081.png" crc="25008282" ref="about"/>
+    <file name="u6081-r.png" crc="4251149300" ref="about"/>
+    <file name="u6081-m.png" crc="4251149300" ref="about"/>
+    <file name="u6081-a.png" crc="4251149300" ref="about"/>
+    <file name="u6065-4-a.png" crc="3889670599" ref="about"/>
+    <file name="u6058.png" crc="199958841" ref="about"/>
+    <file name="u6058-r.png" crc="243283036" ref="about"/>
+    <file name="u6058-m.png" crc="243283036" ref="about"/>
+    <file name="u6058-a.png" crc="243283036" ref="about"/>
+    <file name="u6070.png" crc="3777662056" ref="about"/>
+    <file name="u6070-r.png" crc="48442232" ref="about"/>
+    <file name="u6070-m.png" crc="48442232" ref="about"/>
+    <file name="u6070-a.png" crc="48442232" ref="about"/>
+    <file name="fff2-u7710-fr.jpg" crc="398286065" ref="about"/>
+    <file name="brist.jpg" crc="3954428677" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="psrer.jpg" crc="4067569575" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="new-u6131.png" crc="3931379397" ref="about"/>
+    <file name="new-u3238.png" crc="3931379397" ref="portfolio"/>
+    <file name="u3187.png" crc="25008282" ref="portfolio"/>
+    <file name="u3187-r.png" crc="4251149300" ref="portfolio"/>
+    <file name="u3187-m.png" crc="4251149300" ref="portfolio"/>
+    <file name="u3187-a.png" crc="4251149300" ref="portfolio"/>
+    <file name="u3195.png" crc="131487699" ref="portfolio"/>
+    <file name="u3195-r.png" crc="3889670599" ref="portfolio"/>
+    <file name="u3195-m.png" crc="3889670599" ref="portfolio"/>
+    <file name="u3195-a.png" crc="3889670599" ref="portfolio"/>
+    <file name="u3204-4-a.png" crc="243283036" ref="portfolio"/>
+    <file name="u3215.png" crc="3777662056" ref="portfolio"/>
+    <file name="u3215-r.png" crc="48442232" ref="portfolio"/>
+    <file name="u3215-m.png" crc="48442232" ref="portfolio"/>
+    <file name="u3215-a.png" crc="48442232" ref="portfolio"/>
+    <file name="steps.jpg" crc="3793700561" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bannepatra.jpg" crc="4129556143" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="frame-gallery.png" crc="4097378540" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="patra2.jpg" crc="348329424" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="patraf.jpg" crc="4185789399" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="121358745_762764000958265_2296937706066496799_o.jpg" crc="325596496" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dd23.jpg" crc="90188403" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dd56.jpg" crc="295639137" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="patradd.jpg" crc="316829568" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="8-u3901-fr.jpg" crc="4137865773" ref="portfolio"/>
+    <file name="1-u3895-fr.jpg" crc="519750345" ref="portfolio"/>
+    <file name="6-u3892-fr.jpg" crc="3877724749" ref="portfolio"/>
+    <file name="4.jpg" crc="4114060084" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="5-u3889-fr.jpg" crc="4109392879" ref="portfolio"/>
+    <file name="3-u3899-fr.jpg" crc="3997090376" ref="portfolio"/>
+    <file name="1-u3944-fr.jpg" crc="444577720" ref="portfolio"/>
+    <file name="2-u3946-fr.jpg" crc="509642532" ref="portfolio"/>
+    <file name="3-u3943-fr.jpg" crc="3810856149" ref="portfolio"/>
+    <file name="4-u3945-fr.jpg" crc="356030886" ref="portfolio"/>
+    <file name="5-u3942-fr.jpg" crc="435632136" ref="portfolio"/>
+    <file name="7-u3941-fr.jpg" crc="3894210190" ref="portfolio"/>
+    <file name="2-u3926-fr.jpg" crc="226692435" ref="portfolio"/>
+    <file name="7-u3938-fr.jpg" crc="62516124" ref="portfolio"/>
+    <file name="45387817_346402205927782_4496747303402471424_o.jpg" crc="278049143" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pc (2).jpg" crc="3789860901" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dd54.jpg" crc="417380250" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ddbn.jpg" crc="268076276" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dd65.jpg" crc="469629208" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ght (2).jpg" crc="468297437" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="patra3.jpg" crc="184915642" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ght (3).jpg" crc="3868536204" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ght (4).jpg" crc="4175292901" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ght (6).jpg" crc="342795640" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ght (5).jpg" crc="4224730170" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ghhhhht (2).jpg" crc="3800467861" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="new-u2939.png" crc="3931379397" ref="contact"/>
+    <file name="u2887.png" crc="25008282" ref="contact"/>
+    <file name="u2887-r.png" crc="4251149300" ref="contact"/>
+    <file name="u2887-m.png" crc="4251149300" ref="contact"/>
+    <file name="u2887-a.png" crc="4251149300" ref="contact"/>
+    <file name="u2858.png" crc="131487699" ref="contact"/>
+    <file name="u2858-r.png" crc="3889670599" ref="contact"/>
+    <file name="u2858-m.png" crc="3889670599" ref="contact"/>
+    <file name="u2858-a.png" crc="3889670599" ref="contact"/>
+    <file name="u2866.png" crc="199958841" ref="contact"/>
+    <file name="u2866-r.png" crc="243283036" ref="contact"/>
+    <file name="u2866-m.png" crc="243283036" ref="contact"/>
+    <file name="u2866-a.png" crc="243283036" ref="contact"/>
+    <file name="u2878-4-a.png" crc="48442232" ref="contact"/>
+    <file name="susan-yin-2jivbogleho-unsplash.jpg" crc="4258415621" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="hanfd.jpg" crc="3862339353" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4077262428" seo="true" mt="1613378080273" redirect="true"/>
+  <file name="about.html" crc="4282395986" seo="true" mt="1613377073197" redirect="true"/>
+  <file name="portfolio.html" crc="3917236292" seo="true" mt="1613378416783" redirect="true"/>
+  <file name="contact.html" crc="313296610" seo="true" mt="1613377860162" redirect="true"/>
+</manifest>
